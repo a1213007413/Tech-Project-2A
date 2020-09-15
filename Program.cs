@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* 
+  Author: Wei Ming Guo
+  Date: 9/14/2020
+  C# Program Console Program with Iterative Statements
+*/
+
+using System;
 
 namespace Tech_Project_2A
 {
